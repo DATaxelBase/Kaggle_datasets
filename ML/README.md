@@ -8,3 +8,9 @@ The goal of the Tabular Playground Series is to provide the Kaggle community wit
 
 # Synthetically-Generated Datasets
 Using synthetic data for Playground competitions allows us to strike a balance between having real-world data (with named features) and ensuring test labels are not publicly available. This allows us to host competitions with more interesting datasets than in the past. While there are still challenges with synthetic data generation, the state-of-the-art is much better now than when we started the Tabular Playground Series two years ago, and that goal is to produce datasets that have far fewer artifacts. Please feel free to give us feedback on the datasets for the different competitions so that we can continue to improve!
+# Quick detail on features
+CALC is the Consumption of Alcohol
+SCC is weather the person is monitoring the Calorie Consumption
+NCP is the Number of Main Meals the Person is Consuming
+FCVC is the Frequency of Consumption of Vegetables
+More information on https://www.kaggle.com/datasets/aravindpcoder/obesity-or-cvd-risk-classifyregressorcluster
